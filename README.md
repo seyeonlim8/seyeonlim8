@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Seyeon Lim</h1>
-<h3 align="center">A sophomore CS major at Smith College</h3>
+<h1 align="center">Hi 👋, I'm Seyeon!</h1>
+<h3 align="center">I'm a sophomore CS major at Smith College.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
