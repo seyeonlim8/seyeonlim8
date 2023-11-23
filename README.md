@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, my name is Seyeon</h1>
 <h3 align="center">I'm a sophomore CS major at Smith College.</h3>
 
-- 🔭 I have a strong interest in **game development**
+🔭 I have a strong interest in **game development**
 
-- 🌱 I am also interested in **metaverse and motion capture technology**
+🌱 I am also interested in **metaverse and motion capture technology**
 
-- 📫 How to reach me **slim@smith.edu**
+📫 How to reach me **slim@smith.edu**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/limseyeon/](https://www.linkedin.com/in/limseyeon/)
+📄 Know about my experiences [https://www.linkedin.com/in/limseyeon/](https://www.linkedin.com/in/limseyeon/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
