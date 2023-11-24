@@ -3,7 +3,7 @@
 
 🔭 I have a strong interest in **game development**
 
-🌱 I am also interested in **metaverse and motion capture technology**
+🌱 I am intrigued by **metaverse and motion capture technology**
 
 📫 How to reach me **slim@smith.edu**
 
