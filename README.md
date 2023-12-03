@@ -7,7 +7,7 @@
 
 📫 How to reach me **slim@smith.edu**
 
-📄 Know about my experiences [https://www.linkedin.com/in/limseyeon/](https://www.linkedin.com/in/limseyeon/)
+📄 Know about my experiences **[https://www.linkedin.com/in/limseyeon/]**(https://www.linkedin.com/in/limseyeon/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
