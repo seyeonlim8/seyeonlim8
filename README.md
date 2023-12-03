@@ -5,7 +5,7 @@
 
 🌱 I am intrigued by **metaverse and motion capture technology**
 
-📫 How to reach me **slim@smith.edu**
+📫 How to reach me slim@smith.edu
 
 📄 Know about my experiences [https://www.linkedin.com/in/limseyeon/](https://www.linkedin.com/in/limseyeon/)
 
